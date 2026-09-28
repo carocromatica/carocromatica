@@ -68,29 +68,6 @@ Me gusta moverme entre la investigación, la estrategia y el diseño visual para
 🔍 **SEO**
 🧪 **Experimentación de productos**
 
-<br>
-
-## ✨ Algunos proyectos
-
-### 🎮 Business Village
-
-**Orientación vocacional convertida en videojuego.**
-
-Una experiencia interactiva en pixel art diseñada para acercar las carreras de negocios a futuros estudiantes de una manera más entretenida y memorable.
-
-`Game Design` `UX/UI` `Pixel Art` `Experimentación`
-
----
-
-### ⚡ Plataforma de Generación Distribuida
-
-**Haciendo comprensible un proceso que no era nada comprensible.**
-
-Investigación y rediseño de una plataforma para gestionar procesos de generación eléctrica distribuida, conectando necesidades de usuarios, procesos internos y normativa.
-
-`UX Research` `Product Design` `Service Design` `Figma`
-
----
 
 ### 🧪 MVP & Experimentación
 
